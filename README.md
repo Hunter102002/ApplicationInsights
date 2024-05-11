@@ -1,25 +1,24 @@
 # Application Insights Project
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Application Insights project focused on enhancing visibility and monitoring capabilities for a web application. By integrating Application Insights into the application, the goal was to gain insights into application performance, user interactions, and overall health. This project aimed to improve the application's reliability, performance, and user experience by leveraging data-driven insights.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Implementation and configuration of Application Insights for monitoring web applications.
+- Utilization of telemetry data to identify and troubleshoot performance issues.
+- Interpretation of metrics and logs to optimize application performance.
+- Implementation of custom telemetry to track specific user interactions and application events.
+- Enhanced knowledge of application monitoring and troubleshooting techniques.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Microsoft Azure for hosting the web application and Application Insights.
+- Application Insights for monitoring and analyzing application performance.
+- Visual Studio for development and integration of Application Insights.
+- Azure Log Analytics for advanced log queries and analysis.
 
 ## Steps
 Create a Webb App<img width="1470" alt="Screenshot 2024-05-11 at 9 19 11 AM" src="https://github.com/Hunter102002/ApplicationInsights/assets/98543129/12c97286-2a8a-4f81-86d0-fac0749e0e18">
