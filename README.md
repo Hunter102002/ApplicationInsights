@@ -26,3 +26,5 @@ Create a Webb App<img width="1470" alt="Screenshot 2024-05-11 at 9 19 11 AM" s
 
 
 Create a Log Anayltics Workspace<img width="1470" alt="Screenshot 2024-05-11 at 9 24 02 AM" src="https://github.com/Hunter102002/ApplicationInsights/assets/98543129/bf8b25e2-7bac-4399-9217-a43819bae0e0">
+
+Connect Applicaton Insights to Web App<img width="1470" alt="Screenshot 2024-05-11 at 9 31 53 AM" src="https://github.com/Hunter102002/ApplicationInsights/assets/98543129/950bd0c1-1d66-4043-9c88-5f9fec5ec3c3">
