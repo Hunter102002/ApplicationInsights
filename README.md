@@ -22,11 +22,14 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+drag & drop screenshots here or use imgur and referen<img width="1470" alt="Screenshot 2024-05-11 at 9 19 11 AM" src="https://github.com/Hunter102002/ApplicationInsights/assets/98543129/12c97286-2a8a-4f81-86d0-fac0749e0e18">
+ce them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
+
+Create a Webb App<img 
 
 
 Create a Log Anayltics Workspace<img width="1470" alt="Screenshot 2024-05-11 at 9 24 02 AM" src="https://github.com/Hunter102002/ApplicationInsights/assets/98543129/bf8b25e2-7bac-4399-9217-a43819bae0e0">
